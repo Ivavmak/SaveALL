@@ -1,0 +1,12 @@
+{
+    "name": "Save All",
+    "description": "Save all web-pages from current window to bookmarks",
+    "version": "1.0",
+    "manifest_version": 3,
+    "icons": {},
+    "action": {
+        "default_popup":"popup.html"
+    },
+    "permissions": ["scripting", "bookmarks","tabs"],
+    "background":{}
+}
